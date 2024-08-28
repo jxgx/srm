@@ -38,3 +38,8 @@ h1 {
 h2 {
     margin-left:43px;
 }
+
+.responsive {
+    width: 100%;
+    height: auto;
+}
