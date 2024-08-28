@@ -8,11 +8,11 @@ body {
 }
 
 a:link {
-    color: purple;
+    color: red;
 }
 
 a:visited {
-    color: green;
+    color: brown;
 }
 
 a:hover {
