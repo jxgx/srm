@@ -40,6 +40,11 @@ h2 {
     margin-left:43px;
 }
 
+img {
+    margin-left: 43px;
+    margin-right: 50px;
+}
+
 .responsive {
     width: 80%;
     height: auto;
